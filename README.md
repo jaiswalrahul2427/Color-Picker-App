@@ -10,6 +10,9 @@ Currently, two official plugins are available:
  # Color Picker App
 This is a simple React application that allows users to change the background color of the page by clicking on buttons corresponding to different colors. It utilizes React's useState hook to manage state.
 
+# Link Link
+https://color-picker-apps.netlify.app/
+
 # Usage
 - Clone the repository to your local machine.
 - Navigate to the project directory.
